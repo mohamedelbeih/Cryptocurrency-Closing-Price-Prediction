@@ -2,7 +2,7 @@
 
 check it here @ Zindi https://zindi.africa/competitions/cryptocurrency-closing-price-prediction
 
-my work will be uploaded in the repo after the copetition ends @ 20-9-2021
+my work will be uploaded in the repo when the competition ends @ 20-9-2021
 
 This is a comprehensive dataset that captures the prices of a cryptocurrency along with the various features including social media attributes, trading attributes and time related attributes that were noted on an hourly basis during several months and that contribute directly or indirectly to the cryptocurrency volatile prices change.
 
