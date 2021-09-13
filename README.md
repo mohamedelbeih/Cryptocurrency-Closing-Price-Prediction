@@ -13,6 +13,7 @@ SampleSubmission.csv - shows the submission format for this competition, with th
 Variable definitions
 
 asset_id: An asset ID. We refer to all supported cryptocurrencies as assets
+
 open: Open price for the time period
 close: Close price for the time period
 high: Highest price of the time period
